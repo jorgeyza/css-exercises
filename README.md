@@ -15,6 +15,7 @@ These exercises should be done when instructed during the course of the curricul
 5. Don't check the solutions until you're done!
 
 ## Some hints
+
 - The official solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (i.e. there might be a `body {}` in the given CSS, and another `body {}` in the solution). When you are working on the exercise it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font-size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px`, or that the margin is _exactly_ `42px`.
 - You may need to add some elements to your HTML to get things into the right spot. (for the first few exercises we make it explicit when this needs to happen)
@@ -24,22 +25,25 @@ These exercises should be done when instructed during the course of the curricul
 ## Checklist for exercises (insert check ✅ into [ ] upon completion)
 
 1. Foundations:
-  - 01-css-methods [ ]
-  - 02-class-id-selectors [ ]
-  - 03-grouping-selectors [ ]
-  - 04-chaining-selectors [ ]
-  - 05-descendant-combinator [ ]
-  - 06-cascade-fix [ ]
+
+- 01-css-methods [✅]
+- 02-class-id-selectors [ ]
+- 03-grouping-selectors [ ]
+- 04-chaining-selectors [ ]
+- 05-descendant-combinator [ ]
+- 06-cascade-fix [ ]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
-  - margin-and-padding-2 [ ]
- 
+
+- margin-and-padding-1 [ ]
+- margin-and-padding-2 [ ]
+
 3. Flex:
-  - 01-flex-center [ ]
-  - 02-flex-header [ ]
-  - 03-flex-header-2 [ ]
-  - 04-flex-information [ ]
-  - 05-flex-modal [ ]
-  - 06-flex-layout [ ]
-  - 07-flex-layout-2 [ ]
+
+- 01-flex-center [ ]
+- 02-flex-header [ ]
+- 03-flex-header-2 [ ]
+- 04-flex-information [ ]
+- 05-flex-modal [ ]
+- 06-flex-layout [ ]
+- 07-flex-layout-2 [ ]
